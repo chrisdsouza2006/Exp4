@@ -1,1 +1,1 @@
-#subtract 
+def sub(a,b): return a-b#subtract 
